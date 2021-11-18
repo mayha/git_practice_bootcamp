@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+file.txt
+file3.html
+file4.html
+
+!/git_section_3/
+.idea/
+.DS_Store
+venv/
+
